@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+ <html lang="pt-br">
+<head>
+    <link rel="stylesheet" href="login. css.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela de Login</title>
+</head>
+
+<body>
+    
+    <div class="container">
+        <h2>Login de Alunos(a)</h2>
+        
+    
+        <form action="index.html" method="post">
+            <div class="input-field">
+                <input type="text" id="nome" placeholder="alguma coisa">
+                <label for="nome">Número de Matricula:</label>
+            </div>
+
+            <div class="input-field">
+                <input type="password" id="senha" placeholder="alguma coisa">
+                <label for="senha">Data de nascimento:</label>
+            </div>
+
+            <div class="center">
+                <button>Entrar</button>
+            </div>
+        </form>
+        <div class="links-uteis">
+            <a href=""><p>Consultar Número de matricula</p></a>
+     
+        </div>
+    </div>
+</body>
+</html>
