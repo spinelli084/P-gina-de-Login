@@ -5,7 +5,7 @@
         padding: 0;
     }
 body{
-    background: url(https://i.pinimg.com/originals/1b/38/f3/1b38f3ade75e9d3717e9a60cef8e9c25.jpg);
+    background: url(https://i.pinimg.com/originals/d6/a7/eb/d6a7eba8a06d8020278a54c248db1f01.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -14,16 +14,16 @@ body{
 }
 .container{
     width: 350px;
-    background: rgba(228, 220, 220, 0.662);
+    background: rgba(248, 239, 239, 0.372);
     border-radius: 10% 10%;
-    box-shadow: 1px 2px 20px #786565b7, 2px 6px 50px #93808083;
+    box-shadow: 1px 2px 20px #5c41415c, 2px 6px 50px #93808051;
     padding: 50px 20px;
 }
 
 h2{
     text-align: center;
     margin: 20px;
-    color: rgb(0, 0, 0);
+    color: rgb(9, 13, 255);
     font-size: 25px;
 }
 
@@ -105,4 +105,3 @@ input:not(:placeholder-shown) + label{
 input::placeholder{
     color:transparent;
 }
-
