@@ -29,9 +29,10 @@
             </div>
         </form>
         <div class="links-uteis">
-            <a href=""><p>Consultar Número de matricula</p></a>
+           <center> <a href=""><p>Consultar Número de matricula</p></a></center>
      
         </div>
     </div>
 </body>
 </html>
+
