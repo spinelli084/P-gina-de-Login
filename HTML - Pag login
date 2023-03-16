@@ -10,9 +10,7 @@
 <body>
     
     <div class="container">
-        <h2>Login do estudante(a)</h2>
-        
-    
+        <h2>Login do estudante</h2>
         <form action="index.html" method="post">
             <div class="input-field">
                 <input type="text" id="nome" placeholder="alguma coisa">
